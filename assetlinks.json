@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.bhushan425476.purnviram",
+        "sha256_cert_fingerprints": ["EB:B4:04:A7:74:DC:92:6F:42:0D:B8:FD:22:D8:DB:C3:5C:DE:74:3B:0C:FC:BC:4E:F6:96:19:55:72:7D:A5:02"]
+      }
+    }]
